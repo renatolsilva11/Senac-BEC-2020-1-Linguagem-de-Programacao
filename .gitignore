@@ -1,0 +1,10 @@
+# ignore tudo
+*
+
+# reconsidere os subdiretórios
+!/**/
+
+# reconsidere os arquivos com extensão
+!*.*
+
+
